@@ -1,0 +1,6 @@
+504 API errors may happen because of:
+- gateway timeout
+- temporary server overload
+- retry configuration issues
+
+Recommend retrying with exponential backoff.

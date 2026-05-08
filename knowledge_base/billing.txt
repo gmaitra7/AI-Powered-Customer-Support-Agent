@@ -1,0 +1,4 @@
+If a customer is charged twice:
+1. Apologize for the inconvenience
+2. Inform them billing team will verify the duplicate charge
+3. Refunds usually take 5-7 business days
