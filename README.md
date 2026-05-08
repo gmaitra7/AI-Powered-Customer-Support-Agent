@@ -112,21 +112,3 @@ Example Output
     "escalate": true
 }
 
-ai-support-agent/
-│
-├── app/
-│   ├── main.py
-│   ├── classifier.py
-│   ├── retriever.py
-│   ├── responder.py
-│   ├── escalation.py
-│   └── config.py
-│
-├── knowledge_base/
-│   ├── billing.txt
-│   ├── password_reset.txt
-│   └── api_errors.txt
-│
-├── requirements.txt
-├── .env
-└── README.md
